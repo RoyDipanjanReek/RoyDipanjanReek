@@ -19,20 +19,19 @@ I build **secure, scalable backend systems** and ship real-world products fast. 
 
 ## 🛠 Tech Stack
 
-### 💻 Languages
+### 💻 Languages            ### ⚙️ Backend
 
-* JavaScript (ES6+)
-* TypeScript (Basics)
-* C
+* JavaScript (ES6+)         * Node.js 
+* TypeScript (Basics)       * Express.js 
+* C                         * MongoDB & Mongoose 
+                            * REST APIs
+                            * JWT Authentication
+                            * RBAC 
 
-### ⚙️ Backend
 
-* Node.js
-* Express.js
-* MongoDB & Mongoose
-* REST APIs
-* JWT Authentication
-* RBAC (Basic)
+
+
+
 
 ### 🌐 Frontend
 
