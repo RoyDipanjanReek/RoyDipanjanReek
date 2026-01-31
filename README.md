@@ -1,150 +1,58 @@
 # 👋 Hi, I’m Dipanjan Roy
 
-🚀 **Backend-focused Full‑Stack Developer | CSE Undergraduate**
-I build **secure, scalable backend systems** and ship real-world products fast. I love turning complex ideas into clean APIs, well-structured architectures, and production‑ready code.
-
-> I don’t just write code — I design systems that survive scale.
+🚀 **Backend-focused Developer | CSE Undergraduate**
+I build **secure, scalable backend systems** and real-world products with clean architecture.
 
 ---
 
 ## 🧠 About Me
 
 * 🎓 Computer Science & Engineering student
-* 🧩 Strong focus on **Backend Development & System Design**
-* 🔐 Obsessed with **security, clean architecture, and scalability**
-* ⚡ Believe in learning by **building real products**, not tutorials
-* 🛠 AI‑first mindset: I use AI to move faster, not think less
+* 🔐 Backend-first mindset (APIs, security, scalability)
+* 🧩 Learn by building real projects
+* ⚡ Calm mindset, aggressive execution
 
 ---
 
 ## 🛠 Tech Stack
 
-### 💻 Languages            ### ⚙️ Backend
-
-* JavaScript (ES6+)         * Node.js 
-* TypeScript (Basics)       * Express.js 
-* C                         * MongoDB & Mongoose 
-                            * REST APIs
-                            * JWT Authentication
-                            * RBAC 
-
-
-
-
-
-
-### 🌐 Frontend
-
-* React.js
-* Next.js
-* Tailwind CSS
-* shadcn/ui (learning & using in projects)
-
-### ☁️ Tools & Services
-
-* Cloudinary
-* Multer
-* Git & GitHub
-* Postman
-* Swagger (API Docs)
-* Render / Vercel
-
-### 🔐 Security & Performance
-
-* Helmet
-* Express Mongo Sanitize
-* HPP
-* Rate Limiting
-* Centralized Error Handling
+**Languages:** JavaScript, TypeScript (basic), C
+**Backend:** Node.js, Express.js, MongoDB, Mongoose, JWT
+**Frontend:** React, Next.js, Tailwind CSS
+**Tools:** Git, GitHub, Postman, Cloudinary, Multer
+**Security:** Helmet, Rate Limiting, Mongo Sanitize, HPP
 
 ---
 
 ## 🚀 Featured Projects
 
-### 📚 LMS Backend (Learning Management System)
+### 📚 LMS Backend
 
-**Tech:** Node.js, Express, MongoDB, JWT, Cloudinary
-
-A production‑ready backend for a Learning Management System with:
-
-* User authentication & authorization
-* Course creation & management
-* Course purchase & enrollment
-* Progress tracking system
-* Global rate limiting & security middleware
-* Cloudinary‑based media uploads
-
-🔹 Designed with real-world backend standards
-🔹 Clean controller–middleware–utils architecture
-
-➡️ *Ideal example of scalable backend engineering*
+Node.js • Express • MongoDB • JWT
+Secure LMS backend with authentication, course management, purchases, progress tracking, and global security middleware.
 
 ---
 
 ### 📊 Excel Analytics Platform
 
-**Tech:** Next.js, MongoDB, Chart.js, SheetJS, Three.js
-
-A full‑stack platform that allows users to:
-
-* Upload Excel files
-* Generate interactive charts
-* View data history
-* Get AI‑driven insights
-* Access admin dashboard
-
-🔹 Focused on data visualization & user experience
-🔹 Designed for analytics‑heavy use cases
+Next.js • MongoDB • Chart.js
+Upload Excel files, generate charts, view data history, and get AI insights.
 
 ---
 
-### 🖼 Media Compression Platform
+### 🖼 Media Compression App
 
-**Tech:** Next.js, Clerk, Cloudinary
-
-A full‑stack web app that:
-
-* Compresses images & videos
-* Uses Clerk for authentication
-* Handles secure media uploads
-
-🔹 Performance‑focused project
-🔹 Built with modern authentication & storage tools
-
----
-
-## 📈 What I’m Currently Working On
-
-* Advanced backend architecture patterns
-* System design fundamentals
-* AI‑assisted development workflows
-* Scalable authentication systems
+Next.js • Clerk • Cloudinary
+Image & video compression platform with modern authentication.
 
 ---
 
 ## 🎯 Goals
 
 * Become a **top 1% backend engineer**
-* Build products that impact real users
-* Work in fast‑paced startup environments
-* Master system design & distributed systems
+* Build products that scale
 
 ---
 
-## 📫 Let’s Connect
+⭐ *Always learning. Always building.*
 
-* 💼 GitHub: *You are already here 😉*
-* 🧠 Always open to collaboration & learning
-
----
-
-## ⚡ Fun Facts
-
-* ♟ Love chess — helps me think in systems
-* 🏏 Cricket fan
-* 🏔 Mountains > Beaches
-* 🧘 Calm mindset, aggressive execution
-
----
-
-⭐ *If you like my work, consider starring my repositories!*
